@@ -6,7 +6,6 @@
 
 ### cabinet 2023-2024
 <p> our cabinet consists of 11 members, co-presidents, vice president, secretary, treasurer, 2 dops, 2 doas, and 2 historians</p>
-<img src="https://github.com/hanniwon/koreclub/blob/main/unnamed.png?raw=true" />
 
 ## activities
 <p>Kore has participated in many activites such as talent show and International Day that take place at Whitney. From traditional to modern (like kpop), we were able to showcase the beauty of our culture through dance and performance. We alaways ecnourage members to join us in these activities because not only is it a learning experience, it is a chance to meet new people and make new memories.</p>
