@@ -1,4 +1,4 @@
-# koreclub
+# kore club
 
 ## introduction
 <p>hi! we are kore, whitney's only korean culutral club! we explore so many different aspects about korean culture, like the dances, music, food, and more. our purpose is to further represent south korea on behalf of the students here at whitney high school!</p>
